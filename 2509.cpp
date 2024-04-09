@@ -1,7 +1,10 @@
 #include <bits/stdc++.h>
-using namespace std;  
+
+using namespace std;
+
 int a[9]; 
 int main() {
+    printf("10");
     ios_base::sync_with_stdio(false); // 속도 증가 목적
     cin.tie(NULL);
     cout.tie(NULL);
